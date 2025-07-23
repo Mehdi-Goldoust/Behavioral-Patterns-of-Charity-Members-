@@ -1,3 +1,4 @@
+# Behavioral Patterns of Charity Members
 <h1 style="color:#3498DB ; font-family:Georgia, serif; font-size:40px; text-align:center;">
 Introduction
 </h1>
@@ -22,4 +23,4 @@ The analysis is based on two datasets:
    - Date of donation
    - Donation amount
    - Type of donation
-# Behavioral-Patterns-of-Charity-Members-
+
